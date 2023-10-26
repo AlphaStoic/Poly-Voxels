@@ -23,7 +23,7 @@ Thanks everyone for supporting! I will create a Patreon for the Better Version.
 
 # Screenshots
 
-[Uploading fcf3a4a0608a4bc740eda43e75039ee5ac772e9f.webp…]() + Voxelization
+![download (2)](https://github.com/AlphaStoic/Poly-Voxels/assets/149120746/810a7609-89f6-405f-9281-efdf950251ef) + Voxelization
 
 
 
