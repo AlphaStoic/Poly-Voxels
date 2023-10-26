@@ -1,6 +1,6 @@
 ![Poly-Voxels-26-10-2023](https://github.com/AlphaStoic/Poly-Voxels/assets/149120746/eab802e3-9bdc-4df2-809b-5a6fff7180ca)
 # Poly_Voxels Credits
-Used BSL V5.0, originally made by "Capttatsu". All credits must go to him. I modified BSL and added Voxelization, based on and inspired by: "Soft Voxels" and "Rethinking Voxels". 
+Used BSL V5.0 (www.bslshaders.com/), originally made by "Capttatsu". All credits must go to him. I modified BSL and added Voxelization, based on and inspired by: "Soft Voxels" and "Rethinking Voxels". 
 
 # What i modified?
 Added **Voxelization, some better lights, and some custom changes.**
