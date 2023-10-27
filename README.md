@@ -1,6 +1,6 @@
 ![Poly-Voxels-26-10-2023](https://github.com/AlphaStoic/Poly-Voxels/assets/149120746/eab802e3-9bdc-4df2-809b-5a6fff7180ca)
 # Poly_Voxels Credits
-Used Kappa Shaders ([www.bslshaders.com/](https://www.curseforge.com/minecraft/shaders/kappa-shader-by-rre36)), originally made by "RRe36". All credits must go to him. I modified Kappa and added some nice things!
+Used Kappa Shaders ([https://www.curseforge.com/minecraft/shaders/kappa-shader-by-rre36]), originally made by "RRe36". All credits must go to him. I modified Kappa and added some nice things!
 
 # What i modified?
 I cant say so much, you need to **_Test it!_**
