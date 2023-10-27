@@ -1,12 +1,12 @@
 ![Poly-Voxels-26-10-2023](https://github.com/AlphaStoic/Poly-Voxels/assets/149120746/eab802e3-9bdc-4df2-809b-5a6fff7180ca)
 # Poly_Voxels Credits
-Used BSL V5.0 (www.bslshaders.com/), originally made by "Capttatsu". All credits must go to him. I modified BSL and added Voxelization, based on and inspired by: "Soft Voxels" and "Rethinking Voxels". 
+Used Kappa Shaders ([www.bslshaders.com/](https://www.curseforge.com/minecraft/shaders/kappa-shader-by-rre36)), originally made by "RRe36". All credits must go to him. I modified Kappa and added some nice things!
 
 # What i modified?
-Added **Voxelization, some better lights, and some custom changes.**
+I cant say so much, you need to **_Test it!_**
 
 # Credits
-Used BSL V5.0, originally made by "Capttatsu". All credits must go to him. I really dont want credits, but if you want to showcase this, or simply play, remember my Name!
+Used Kappa Shaders, originally made by "RRe36". All credits must go to him. I really dont want credits, but if you want to showcase this, or simply play, remember my Name!
 AlphaStoic, or only Alpha.
 
 # Questions
